@@ -1,4 +1,11 @@
 # todolist
+Todolist project structure/
+├── android/
+├── ios/
+├── lib/
+├── pubspec.yaml
+├── README.md
+└── other files...
 
 A new Flutter project.
 
