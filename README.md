@@ -7,7 +7,10 @@ Todolist project structure/
 ├── README.md
 └── other files...
 
-A new Flutter project.
+Edited to do list Flutter project.
+As requested this is my edited to list project to satisfy my project for a certification review.
+as guided up the list is the organisation of my project in that order files can be accessed.And lib
+folder being the one holding main.dart file that can be manipulated to suit the required output.
 
 ## Getting Started
 
